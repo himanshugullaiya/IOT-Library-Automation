@@ -11,4 +11,4 @@
 <img src = "libraryproduct-images/collage/college_image.jpeg" width = "70%" height = "60%">
 
 > Happy Snaps
-<img src = "libraryproduct-images/collage/snaps.jpeg" width = "70%" height = "60%">
+<img src = "libraryproduct-images/collage/snaps.jpg" width = "70%" height = "60%">
