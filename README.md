@@ -9,14 +9,14 @@ This Project was presented in front of Deans of both MSI & MSIT and all the resp
 The Product is currently Deployed in MSI & MSIT Library.
 
 
-> **Product Images**
+> ## **Product Images**
 <img src = "libraryproduct-images/collage/product_images.jpg" width = "70%" height = "60%">
 
-> **Sms & Email Sent to Students**
+> ## **Sms & Email Sent to Students**
 <img src = "libraryproduct-images/collage/email_sms.jpg" width = "70%" height = "60%">
 
-> **Team**
+> ## **Team**
 <img src = "libraryproduct-images/collage/college_image.jpeg" width = "70%" height = "60%">
 
-> **Presentation to the Director & Other Esteemed Faculty**
+> ## **Presentation to the Director & Other Esteemed Faculty**
 <img src = "libraryproduct-images/collage/snaps.jpg" width = "70%" height = "60%">
